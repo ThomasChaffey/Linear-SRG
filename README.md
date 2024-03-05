@@ -1,6 +1,5 @@
-# LTI-SRG
+# Linear-SRG
 
-# LTI-SRG
 
 Code for plotting the SRG of an LTI transfer function.
 
